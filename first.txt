@@ -12,3 +12,5 @@ remote adding repo
 add kroo
 theine rare are
 hi umer
+adding line master to local
+adding line master hoe
